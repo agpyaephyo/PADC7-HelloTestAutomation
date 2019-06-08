@@ -10,4 +10,8 @@
     <string name="revert">Revert</string>
     <string name="name_hint">Enter your name</string>
     <string name="email_hint">Enter your Email</string>
+
+    <string name="update_text">Update history</string>
+    <string name="input_text_hint">Text to add</string>
+    <string name="new_text">Empty log</string>
 </resources>
